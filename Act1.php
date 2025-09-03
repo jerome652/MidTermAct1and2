@@ -37,6 +37,6 @@ $Product = array (
 
  echo"Product: ".$Product[0][0]." - Price:$".$Product[0][1]." - In stock: ".$Product[0][2]."<br>";
  echo"Product: ".$Product[1][0]." - Price:$".$Product[1][1]." - In stock:  ".$Product[1][2]."<br>";
- echo"Product: ".$Product[2][0]." - Price:$".$Product[2][1]." - In stock:  ".$Product[2][2]."<br>";
+ echo"Product: ".$Product[2][0]." - Price:$".$Product[2][1]." - In stock:  ".$Product[2][2]."<br>"; 
 ?>
 
