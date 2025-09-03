@@ -2,7 +2,7 @@
 <body>
 
 <?php
- include 'Act1.php' ;
+ include 'Act2.php' ;
 ?>
 
 </body>
